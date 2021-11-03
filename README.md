@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/MEDAYOUBIDRISSI/MEDAYOUBIDRISSI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDAYOUBIDRISSI&hide=css,html&theme=prussian" />
 </a>
-<a href="https://github.com/MEDAYOUBIDRISSI/MEDAYOUBIDRISSI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MEDAYOUBIDRISSI&show_icons=true&line_height=27&count_private=true&theme=prussian" alt="MOHAMED AYOUB IDRISSI's GitHub Stats" />
-</a>
